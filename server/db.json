@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1,
+    "name": "HP Pavilion Laptop",
+    "price": 45000,
+    "brand": "HP",
+    "category": "laptop"
+  },
+  {
+    "id": 2,
+    "name": "Lenovo Ideapad",
+    "price": 38000,
+    "brand": "Lenovo",
+    "category": "laptop"
+  },
+  {
+    "id": 3,
+    "name": "Realme Narzo 60",
+    "price": 15000,
+    "brand": "Realme",
+    "category": "mobile"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy M14",
+    "price": 13000,
+    "brand": "Samsung",
+    "category": "mobile"
+  },
+  {
+    "id": 5,
+    "name": "Apple MacBook Air M1",
+    "price": 95000,
+    "brand": "Apple",
+    "category": "laptop"
+  },
+  {
+    "id": 6,
+    "name": "Dell Inspiron 15",
+    "price": 52000,
+    "brand": "Dell",
+    "category": "laptop"
+  },
+  {
+    "id": 7,
+    "name": "OnePlus Nord CE 3",
+    "price": 25000,
+    "brand": "OnePlus",
+    "category": "mobile"
+  },
+  {
+    "id": 8,
+    "name": "iPhone 13",
+    "price": 58000,
+    "brand": "Apple",
+    "category": "mobile"
+  },
+  {
+    "id": 9,
+    "name": "Asus VivoBook 14",
+    "price": 36000,
+    "brand": "Asus",
+    "category": "laptop"
+  },
+  {
+    "id": 10,
+    "name": "Motorola G73",
+    "price": 17000,
+    "brand": "Motorola",
+    "category": "mobile"
+  },
+  {
+    "id": 11,
+    "name": "HP EliteBook",
+    "price": 67000,
+    "brand": "HP",
+    "category": "laptop"
+  },
+  {
+    "id": 12,
+    "name": "Apple iPhone 14",
+    "price": 72000,
+    "brand": "Apple",
+    "category": "mobile"
+  },
+  {
+    "id": 13,
+    "name": "Dell XPS 13",
+    "price": 88000,
+    "brand": "Dell",
+    "category": "laptop"
+  },
+  {
+    "id": 14,
+    "name": "Lenovo Legion 5",
+    "price": 78000,
+    "brand": "Lenovo",
+    "category": "laptop"
+  },
+  {
+    "id": 15,
+    "name": "Samsung Galaxy A54",
+    "price": 30000,
+    "brand": "Samsung",
+    "category": "mobile"
+  },
+  {
+    "id": 16,
+    "name": "Realme GT Neo 3",
+    "price": 32000,
+    "brand": "Realme",
+    "category": "mobile"
+  },
+  {
+    "id": 17,
+    "name": "Asus TUF Gaming F15",
+    "price": 71000,
+    "brand": "Asus",
+    "category": "laptop"
+  },
+  {
+    "id": 18,
+    "name": "Motorola Edge 40",
+    "price": 29000,
+    "brand": "Motorola",
+    "category": "mobile"
+  },
+  {
+    "id": 19,
+    "name": "HP Omen 16",
+    "price": 98000,
+    "brand": "HP",
+    "category": "laptop"
+  },
+  {
+    "id": 20,
+    "name": "iPhone SE 2022",
+    "price": 49000,
+    "brand": "Apple",
+    "category": "mobile"
+  },
+  {
+    "id": 21,
+    "name": "Dell Vostro 3510",
+    "price": 44000,
+    "brand": "Dell",
+    "category": "laptop"
+  },
+  {
+    "id": 22,
+    "name": "Lenovo ThinkPad E15",
+    "price": 54000,
+    "brand": "Lenovo",
+    "category": "laptop"
+  },
+  {
+    "id": 23,
+    "name": "Samsung M13",
+    "price": 11000,
+    "brand": "Samsung",
+    "category": "mobile"
+  },
+  {
+    "id": 24,
+    "name": "Realme C55",
+    "price": 12000,
+    "brand": "Realme",
+    "category": "mobile"
+  },
+  {
+    "id": 25,
+    "name": "Asus ROG Strix G15",
+    "price": 94000,
+    "brand": "Asus",
+    "category": "laptop"
+  },
+  {
+    "id": 26,
+    "name": "Motorola E13",
+    "price": 8000,
+    "brand": "Motorola",
+    "category": "mobile"
+  },
+  {
+    "id": 27,
+    "name": "HP Chromebook 14",
+    "price": 28000,
+    "brand": "HP",
+    "category": "laptop"
+  },
+  {
+    "id": 28,
+    "name": "Apple iPhone 12",
+    "price": 62000,
+    "brand": "Apple",
+    "category": "mobile"
+  },
+  {
+    "id": 29,
+    "name": "Dell Latitude 3420",
+    "price": 60000,
+    "brand": "Dell",
+    "category": "laptop"
+  },
+  {
+    "id": 30,
+    "name": "Lenovo Yoga Slim 7",
+    "price": 87000,
+    "brand": "Lenovo",
+    "category": "laptop"
+  },
+  {
+    "id": 31,
+    "name": "Samsung Galaxy S22",
+    "price": 85000,
+    "brand": "Samsung",
+    "category": "mobile"
+  },
+  {
+    "id": 32,
+    "name": "Realme 11x",
+    "price": 14000,
+    "brand": "Realme",
+    "category": "mobile"
+  },
+  {
+    "id": 33,
+    "name": "Asus Zenbook 14",
+    "price": 68000,
+    "brand": "Asus",
+    "category": "laptop"
+  },
+  {
+    "id": 34,
+    "name": "Motorola Moto G32",
+    "price": 11000,
+    "brand": "Motorola",
+    "category": "mobile"
+  },
+  {
+    "id": 35,
+    "name": "HP Spectre x360",
+    "price": 105000,
+    "brand": "HP",
+    "category": "laptop"
+  },
+  {
+    "id": 36,
+    "name": "Apple iPhone XR",
+    "price": 48000,
+    "brand": "Apple",
+    "category": "mobile"
+  },
+  {
+    "id": 37,
+    "name": "Dell G15 Ryzen Edition",
+    "price": 74000,
+    "brand": "Dell",
+    "category": "laptop"
+  },
+  {
+    "id": 38,
+    "name": "Lenovo IdeaPad Slim 3",
+    "price": 39000,
+    "brand": "Lenovo",
+    "category": "laptop"
+  },
+  {
+    "id": 39,
+    "name": "Samsung Galaxy A14",
+    "price": 16000,
+    "brand": "Samsung",
+    "category": "mobile"
+  },
+  {
+    "id": 40,
+    "name": "Realme 9 Pro+",
+    "price": 22000,
+    "brand": "Realme",
+    "category": "mobile"
+  },
+  {
+    "id": 41,
+    "name": "Asus TUF Dash F15",
+    "price": 78000,
+    "brand": "Asus",
+    "category": "laptop"
+  },
+  {
+    "id": 42,
+    "name": "Motorola G60",
+    "price": 18000,
+    "brand": "Motorola",
+    "category": "mobile"
+  },
+  {
+    "id": 43,
+    "name": "HP Envy x360",
+    "price": 90000,
+    "brand": "HP",
+    "category": "laptop"
+  },
+  {
+    "id": 44,
+    "name": "Apple iPhone 15",
+    "price": 82000,
+    "brand": "Apple",
+    "category": "mobile"
+  },
+  {
+    "id": 45,
+    "name": "Dell Precision 3560",
+    "price": 97000,
+    "brand": "Dell",
+    "category": "laptop"
+  },
+  {
+    "id": 46,
+    "name": "Lenovo Slim 7i",
+    "price": 72000,
+    "brand": "Lenovo",
+    "category": "laptop"
+  },
+  {
+    "id": 47,
+    "name": "Samsung Galaxy S21",
+    "price": 78000,
+    "brand": "Samsung",
+    "category": "mobile"
+  },
+  {
+    "id": 48,
+    "name": "Realme X7 Max",
+    "price": 24000,
+    "brand": "Realme",
+    "category": "mobile"
+  },
+  {
+    "id": 49,
+    "name": "Asus ExpertBook B1",
+    "price": 63000,
+    "brand": "Asus",
+    "category": "laptop"
+  },
+  {
+    "id": 50,
+    "name": "Motorola Edge 20",
+    "price": 26000,
+    "brand": "Motorola",
+    "category": "mobile"
+  }
+]
+
